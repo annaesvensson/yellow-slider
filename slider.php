@@ -1,5 +1,5 @@
 <?php
-// Slider extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/slider
+// Slider extension, https://github.com/annaesvensson/yellow-slider
 
 class YellowSlider {
     const VERSION = "0.8.17";

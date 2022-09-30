@@ -56,7 +56,7 @@ Die folgenden Einstellungen können in der Datei `system/extensions/yellow-syste
 
 ## Installation
 
-[Erweiterung herunterladen](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/slider.zip) und die Zip-Datei in dein `system/extensions`-Verzeichnis kopieren. Rechtsklick bei Safari.
+[Erweiterung herunterladen](https://github.com/annaesvensson/yellow-slider/archive/main.zip) und die Zip-Datei in dein `system/extensions`-Verzeichnis kopieren. Rechtsklick bei Safari.
 
 Diese Erweiterung benutzt [Splide 2.4.21](https://github.com/Splidejs/splide) von Naotoshi Fujita.
 
