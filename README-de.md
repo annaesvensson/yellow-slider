@@ -62,4 +62,4 @@ Diese Erweiterung benutzt [Splide 2.4.21](https://github.com/Splidejs/splide) vo
 
 ## Entwickler
 
-Datenstrom. [Hilfe finden](https://datenstrom.se/de/yellow/help/).
+Anna Svensson. [Hilfe finden](https://datenstrom.se/de/yellow/help/).

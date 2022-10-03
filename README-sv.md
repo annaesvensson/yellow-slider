@@ -63,4 +63,4 @@ Detta tilläg använder [Splide 2.4.21](https://github.com/Splidejs/splide) av N
 
 ## Utvecklare
 
-Datenstrom. [Få hjälp](https://datenstrom.se/sv/yellow/help/).
+Anna Svensson. [Få hjälp](https://datenstrom.se/sv/yellow/help/).

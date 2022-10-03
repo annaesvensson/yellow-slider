@@ -62,4 +62,4 @@ This extension uses [Splide 2.4.21](https://github.com/Splidejs/splide) by Naoto
 
 ## Developer
 
-Datenstrom. [Get help](https://datenstrom.se/yellow/help/).
+Anna Svensson. [Get help](https://datenstrom.se/yellow/help/).
