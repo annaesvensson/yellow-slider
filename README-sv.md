@@ -59,7 +59,7 @@ Följande inställningar kan konfigureras i filen `system/extensions/yellow-syst
 
 [Ladda ner tillägg](https://github.com/annaesvensson/yellow-slider/archive/main.zip) och kopiera zip-fil till din `system/extensions` mapp. Högerklicka om du använder Safari.
 
-Detta tilläg använder [Splide 2.4.21](https://github.com/Splidejs/splide) av Naotoshi Fujita.
+Detta tilläg innehåller [Splide 2.4.21](https://github.com/Splidejs/splide) av Naotoshi Fujita.
 
 ## Utvecklare
 

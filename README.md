@@ -58,7 +58,7 @@ The following settings can be configured in file `system/extensions/yellow-syste
 
 [Download extension](https://github.com/annaesvensson/yellow-slider/archive/main.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
 
-This extension uses [Splide 2.4.21](https://github.com/Splidejs/splide) by Naotoshi Fujita.
+This extension includes [Splide 2.4.21](https://github.com/Splidejs/splide) by Naotoshi Fujita.
 
 ## Developer
 
