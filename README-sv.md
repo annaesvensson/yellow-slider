@@ -21,6 +21,10 @@ Följande argument är tillgängliga, alla utom det första argumentet är valfr
 Bildformaten GIF, JPG, PNG och SVG stöds. Alla mediefiler finns i `media` mappen.
 Mappen `media/images` är platsen för att lagra dina bilder. Mappen `media/thumbnails` innehåller miniatyrbilder. Du kan också skapa ytterligare mappar och organisera filer som du vill.
 
+## Hur man visar bildtexter
+
+Bildtexter kan konfigureras i språkinställningarna. Öppna filen `system/extensions/yellow-language.ini` och lägg till en ny rad för varje bild. En rad består av filnamn och beskrivning. Bildtexten visas när du håller muspekaren över en bild eller använder en skärmläsare.
+
 ## Exempel
 
 Lägga till ett bildgalleri, olika sorteringar:
@@ -46,6 +50,14 @@ Lägga till ett bildgalleri, spela upp med olika fördröjningstider:
     [slider photo.*jpg name loop 100% 1000]
     [slider photo.*jpg name loop 100% 2000]
     [slider photo.*jpg name loop 100% 5000]
+
+Konfigurera bildtexter i språkinställningarna:
+
+    Language: sv
+    media/images/photo.jpg: Detta är en exempelbild
+    media/images/photo-2387365-fika-time.jpg: Fika är en viktig del av vardagen i Sverige. Bild: Taylor Franz
+    media/images/photo-2493837-lake-and-forest.jpg: Sjö och skog på sommaren. Bild: Anatoliy Gromov
+    media/images/photo-album/screenshot-2020-01.png: En liten webbplats av Adam Engel från Sverige.
 
 ## Inställningar
 

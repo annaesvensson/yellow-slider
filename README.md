@@ -20,6 +20,10 @@ The following arguments are available, all but the first argument are optional:
 
 The image formats GIF, JPG, PNG and SVG are supported. All media files are located in the `media` folder. The `media/images` folder is the place to store your images. The `media/thumbnails` folder contains image thumbnails. You can also create additional folders and organise files as you like.
 
+## How to show image captions
+
+Image captions can be configured in the language settings. Open file `system/extensions/yellow-language.ini` and add a new line for each image. A line consists of file name and description. The image caption is displayed when you hover over an image or use a screen reader.
+
 ## Examples
 
 Adding an image gallery, different sortings:
@@ -45,6 +49,14 @@ Adding an image gallery, play with different delays:
     [slider photo.*jpg name loop 100% 1000]
     [slider photo.*jpg name loop 100% 2000]
     [slider photo.*jpg name loop 100% 5000]
+
+Configuring image captions in the language settings:
+
+    Language: en
+    media/images/photo.jpg: This is an example image
+    media/images/photo-2387365-fika-time.jpg: Fika is an important part of life in Sweden. Photo: Taylor Franz
+    media/images/photo-2493837-lake-and-forest.jpg: Lake and forest in the summer. Photo: Anatoliy Gromov
+    media/images/photo-album/screenshot-2020-01.png: A small website by Adam Engel from Sweden.
 
 ## Settings
 

@@ -20,6 +20,10 @@ Die folgenden Argumente sind verfügbar, alle bis auf das erste Argument sind op
 
 Die Bildformate GIF, JPG, PNG und SVG werden unterstützt. Alle Mediendateien befinden sich im `media`-Verzeichnis. Das `media/images`-Verzeichnis ist zum Speichern von Bildern gedacht. Das `media/thumbnails`-Verzeichnis enthält Miniaturbilder. Man kann auch weitere Verzeichnisse hinzufügen und Dateien so organisieren wie man will.
 
+## Wie man Bildunterschriften anzeigt
+
+Bildunterschriften können in den Spracheinstellungen festgelegt werden. Öffne die Datei `system/extensions/yellow-language.ini` und füge für jedes Bild eine neue Zeile hinzu. Eine Zeile besteht aus Dateinamen und Beschreibung. Die Bildunterschrift wird angezeigt wenn man den Mauszeiger über ein Bild bewegt oder einen Bildschirmvorleser verwendet.
+
 ## Beispiele
 
 Bildergalerie hinzufügen, unterschiedliche Sortierungen:
@@ -45,6 +49,14 @@ Bildergalerie hinzufügen, mit unterschiedlichen Verzögerungszeiten abspielen:
     [slider photo.*jpg name loop 100% 1000]
     [slider photo.*jpg name loop 100% 2000]
     [slider photo.*jpg name loop 100% 5000]
+
+Bildunterschriften in den Spracheinstellungen festlegen:
+
+    Language: de
+    media/images/photo.jpg: Das ist ein Beispielbild
+    media/images/photo-2387365-fika-time.jpg: Fika ist ein wichtiger Teil des Lebens in Schweden. Bild: Taylor Franz
+    media/images/photo-2493837-lake-and-forest.jpg: See und Wald im Sommer. Bild: Anatoliy Gromov
+    media/images/photo-album/screenshot-2020-01.png: Eine kleine Webseite von Adam Engel aus Schweden.
 
 ## Einstellungen
 
