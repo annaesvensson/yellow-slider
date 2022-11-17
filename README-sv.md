@@ -67,11 +67,13 @@ Följande inställningar kan konfigureras i filen `system/extensions/yellow-syst
 `SliderStyle` = galleristil, t.ex. `loop`, `fade`, `slide`  
 `SliderAutoplay` = spela upp bilder automatiskt, fördröjningstid i millisekunder  
 
+## Tack
+
+Detta tilläg innehåller [Splide 2.4.21](https://github.com/Splidejs/splide) av Naotoshi Fujita. Tack för det fantastiska arbetet.
+
 ## Installation
 
 [Ladda ner tillägg](https://github.com/annaesvensson/yellow-slider/archive/main.zip) och kopiera ZIP-fil till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
-
-Detta tilläg innehåller [Splide 2.4.21](https://github.com/Splidejs/splide) av Naotoshi Fujita.
 
 ## Utvecklare
 

@@ -66,11 +66,13 @@ Die folgenden Einstellungen können in der Datei `system/extensions/yellow-syste
 `SliderStyle` = Galeriestil, z.B. `loop`, `fade`, `slide`  
 `SliderAutoplay` = Bilder automatisch abspielen, Verzögerungszeit in Millisekunden  
 
+## Danksagung
+
+Diese Erweiterung enthält [Splide 2.4.21](https://github.com/Splidejs/splide) von Naotoshi Fujita. Danke für die tolle Arbeit.
+
 ## Installation
 
 [Erweiterung herunterladen](https://github.com/annaesvensson/yellow-slider/archive/main.zip) und die ZIP-Datei in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
-
-Diese Erweiterung enthält [Splide 2.4.21](https://github.com/Splidejs/splide) von Naotoshi Fujita.
 
 ## Entwickler
 
