@@ -69,7 +69,7 @@ Följande inställningar kan konfigureras i filen `system/extensions/yellow-syst
 
 ## Tack
 
-Detta tilläg innehåller [Splide 2.4.21](https://github.com/Splidejs/splide) av Naotoshi Fujita. Tack för det fantastiska arbetet.
+Detta tilläg innehåller [Splide 2.4.21](https://github.com/Splidejs/splide) av Naotoshi Fujita. Tack för ett bra jobb.
 
 ## Installation
 

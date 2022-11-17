@@ -68,7 +68,7 @@ The following settings can be configured in file `system/extensions/yellow-syste
 
 ## Acknowledgments
 
-This extension includes [Splide 2.4.21](https://github.com/Splidejs/splide) by Naotoshi Fujita. Thanks for the great work.
+This extension includes [Splide 2.4.21](https://github.com/Splidejs/splide) by Naotoshi Fujita. Thank you for the good work.
 
 ## Installation
 
