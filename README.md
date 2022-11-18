@@ -66,7 +66,7 @@ The following settings can be configured in file `system/extensions/yellow-syste
 `SliderStyle` = gallery style, e.g. `loop`, `fade`, `slide`  
 `SliderAutoplay` = play images automatically, delay time in milliseconds  
 
-## Acknowledgments
+## Acknowledgements
 
 This extension includes [Splide 2.4.21](https://github.com/Splidejs/splide) by Naotoshi Fujita. Thank you for the good work.
 
