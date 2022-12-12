@@ -6,6 +6,10 @@ Image gallery with slider.
 
 <p align="center"><img src="slider-screenshot.png?raw=true" alt="Screenshot"></p>
 
+## How to install an extension
+
+[Download ZIP file](https://github.com/annaesvensson/yellow-slider/archive/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
+
 ## How to add an image gallery
 
 Create a `[slider]` shortcut.
@@ -69,10 +73,6 @@ The following settings can be configured in file `system/extensions/yellow-syste
 ## Acknowledgements
 
 This extension includes [Splide 2.4.21](https://github.com/Splidejs/splide) by Naotoshi Fujita. Thank you for the good work.
-
-## Installation
-
-[Download extension](https://github.com/annaesvensson/yellow-slider/archive/main.zip) and copy ZIP file into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
 ## Developer
 

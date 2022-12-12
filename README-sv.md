@@ -6,6 +6,10 @@ Bildgalleri med reglaget.
 
 <p align="center"><img src="slider-screenshot.png?raw=true" alt="Skärmdump"></p>
 
+## Hur man installerar ett tillägg
+
+[Ladda ner ZIP-filen](https://github.com/annaesvensson/yellow-slider/archive/main.zip) och kopiera den till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
+
 ## Hur man lägger till ett bildgalleri
 
 Skapa en `[slider]` förkortning.
@@ -70,10 +74,6 @@ Följande inställningar kan konfigureras i filen `system/extensions/yellow-syst
 ## Tack
 
 Detta tilläg innehåller [Splide 2.4.21](https://github.com/Splidejs/splide) av Naotoshi Fujita. Tack för ett bra jobb.
-
-## Installation
-
-[Ladda ner tillägg](https://github.com/annaesvensson/yellow-slider/archive/main.zip) och kopiera ZIP-fil till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
 
 ## Utvecklare
 

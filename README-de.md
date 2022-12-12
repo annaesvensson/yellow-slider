@@ -6,6 +6,10 @@ Bildergalerie mit Schieber.
 
 <p align="center"><img src="slider-screenshot.png?raw=true" alt="Bildschirmfoto"></p>
 
+## Wie man eine Erweiterung installiert
+
+[ZIP-Datei herunterladen](https://github.com/annaesvensson/yellow-slider/archive/main.zip) und in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
+
 ## Wie man eine Bildergalerie hinzufügt
 
 Erstelle eine `[slider]`-Abkürzung.
@@ -69,10 +73,6 @@ Die folgenden Einstellungen können in der Datei `system/extensions/yellow-syste
 ## Danksagung
 
 Diese Erweiterung enthält [Splide 2.4.21](https://github.com/Splidejs/splide) von Naotoshi Fujita. Danke für die gute Arbeit.
-
-## Installation
-
-[Erweiterung herunterladen](https://github.com/annaesvensson/yellow-slider/archive/main.zip) und die ZIP-Datei in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
 
 ## Entwickler
 
