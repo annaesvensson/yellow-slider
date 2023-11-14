@@ -8,7 +8,7 @@ Bildgalleri med reglaget.
 
 ## Hur man installerar ett tillägg
 
-[Ladda ner ZIP-filen](https://github.com/annaesvensson/yellow-slider/archive/main.zip) och kopiera den till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
+[Ladda ner ZIP-filen](https://github.com/annaesvensson/yellow-slider/archive/refs/heads/main.zip) och kopiera den till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
 
 ## Hur man lägger till ett bildgalleri
 
