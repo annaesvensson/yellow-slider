@@ -2,7 +2,7 @@
 // Slider extension, https://github.com/annaesvensson/yellow-slider
 
 class YellowSlider {
-    const VERSION = "0.8.18";
+    const VERSION = "0.8.19";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -13,8 +13,8 @@ class YellowSlider {
         $this->yellow->system->setDefault("sliderAutoplay", "0");
     }
     
-    // Handle page content of shortcut
-    public function onParseContentShortcut($page, $name, $text, $type) {
+    // Handle page content element
+    public function onParseContentElement($page, $name, $text, $attributes, $type) {
         $output = null;
         if ($name=="slider" && ($type=="block" || $type=="inline")) {
             list($pattern, $sorting, $style, $size, $autoplay) = $this->yellow->toolbox->getTextArguments($text);
