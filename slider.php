@@ -2,7 +2,7 @@
 // Slider extension, https://github.com/annaesvensson/yellow-slider
 
 class YellowSlider {
-    const VERSION = "0.9.1";
+    const VERSION = "0.9.2";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -62,10 +62,10 @@ class YellowSlider {
     public function onParsePageExtra($page, $name) {
         $output = null;
         if ($name=="header") {
-            $extensionLocation = $this->yellow->system->get("coreServerBase").$this->yellow->system->get("coreExtensionLocation");
-            $output = "<link rel=\"stylesheet\" type=\"text/css\" media=\"all\" href=\"{$extensionLocation}slider.css\" />\n";
-            $output .= "<script type=\"text/javascript\" defer=\"defer\" src=\"{$extensionLocation}slider-splide.min.js\"></script>\n";
-            $output .= "<script type=\"text/javascript\" defer=\"defer\" src=\"{$extensionLocation}slider.js\"></script>\n";
+            $assetLocation = $this->yellow->system->get("coreServerBase").$this->yellow->system->get("coreAssetLocation");
+            $output = "<link rel=\"stylesheet\" type=\"text/css\" media=\"all\" href=\"{$assetLocation}slider.css\" />\n";
+            $output .= "<script type=\"text/javascript\" defer=\"defer\" src=\"{$assetLocation}slider-splide.min.js\"></script>\n";
+            $output .= "<script type=\"text/javascript\" defer=\"defer\" src=\"{$assetLocation}slider.js\"></script>\n";
         }
         return $output;
     }
