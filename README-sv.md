@@ -22,7 +22,7 @@ Följande argument är tillgängliga, alla utom det första argumentet är valfr
 `Size` = bildstorlek, pixel eller procent  
 `Autoplay` = spela upp bilder automatiskt, fördröjningstid i millisekunder  
 
-Bildformaten GIF, JPG, PNG och SVG stöds. Alla mediefiler finns i `media` mappen.
+Bildformaten GIF, JPEG, PNG och SVG stöds. Alla mediefiler finns i `media` mappen.
 Mappen `media/images` är platsen för att lagra dina bilder. Mappen `media/thumbnails` innehåller miniatyrbilder. Du kan också skapa ytterligare mappar och organisera filer som du vill.
 
 ## Hur man visar bildtexter
