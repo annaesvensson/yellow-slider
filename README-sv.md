@@ -38,7 +38,7 @@ Innehållsfil med bildgalleri:
     ---
     Detta är en exempelsida med bildgalleri.
 
-    [slider photo.*jpg]
+    [slider photo]
 
 Lägga till ett bildgalleri, olika sorteringar:
 
@@ -74,11 +74,11 @@ Konfigurera bildtexter i språkinställningarna:
 
 Välja filnamn med ett reguljärt uttryck::
 
+`photo` = bildfiler som börjar med "photo" följt av vad som helst  
 `photo.*jpg` = bildfiler som börjar med "photo" följt av vad som helst och "jpg"  
 `photo.*jpeg` = bildfiler som börjar med "photo" följt av vad som helst och "jpeg"  
 `photo-album/` = bildfiler från undermappen "photo-album" följt av vad som helst  
 `photo-album` = bildfiler som börjar med "photo-album" följt av vad som helst  
-`.*` = alla bildfiler 
 
 ## Inställningar
 
