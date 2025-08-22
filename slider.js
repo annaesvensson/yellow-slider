@@ -1,6 +1,6 @@
 // Slider extension, https://github.com/annaesvensson/yellow-slider
 
-var initSplideFromDOM = function() {
+var initSliderFromDOM = function() {
 
     // Parse options from DOM
     var parseOptions = function(element, namesUpperCase) {
@@ -35,4 +35,4 @@ var initSplideFromDOM = function() {
     }
 };
 
-window.addEventListener("DOMContentLoaded", initSplideFromDOM, false);
+window.addEventListener("DOMContentLoaded", initSliderFromDOM, false);
