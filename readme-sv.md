@@ -1,8 +1,6 @@
-<p align="right"><a href="readme-de.md">Deutsch</a> &nbsp; <a href="readme.md">English</a> &nbsp; <a href="readme-sv.md">Svenska</a></p>
-
 # Slider 0.9.4
 
-Bildgalleri med reglaget.
+Bildgalleri med reglaget. Utvecklad av Anna Svensson.
 
 <p align="center"><img src="screenshot.png" alt="Skärmdump"></p>
 
@@ -92,6 +90,4 @@ Följande inställningar kan konfigureras i filen `system/extensions/yellow-syst
 
 Detta tillägg innehåller [Splide 2.4.21](https://github.com/Splidejs/splide) av Naotoshi Fujita. Tack för ett bra jobb.
 
-## Utvecklare
-
-Anna Svensson. [Få hjälp](https://datenstrom.se/sv/yellow/help/).
+Har du några frågor? [Få hjälp](https://datenstrom.se/sv/yellow/help/).
