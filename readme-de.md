@@ -87,6 +87,6 @@ Die folgenden Einstellungen können in der Datei `system/extensions/yellow-syste
 
 ## Danksagung
 
-Diese Erweiterung enthält [Splide 2.4.21](https://github.com/Splidejs/splide) von Naotoshi Fujita. Danke für die gute Arbeit.
+Diese Erweiterung enthält [Splide 2.4.21](https://github.com/Splidejs/splide) von Naotoshi Fujita. Danke für die nützliche Bibliothek.
 
 Hast du Fragen? [Hilfe finden](https://datenstrom.se/de/yellow/help/).
