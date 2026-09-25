@@ -2,7 +2,7 @@
 // Slider extension, https://github.com/annaesvensson/yellow-slider
 
 class YellowSlider {
-    const VERSION = "0.9.4";
+    const VERSION = "1.0.1";
     public $yellow;         // access to API
     
     // Handle initialisation

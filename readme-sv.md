@@ -1,4 +1,4 @@
-# Slider 0.9.4
+# Slider 1.0.1
 
 Bildgalleri med reglaget. Utvecklad av Anna Svensson.
 
