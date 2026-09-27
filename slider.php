@@ -2,7 +2,7 @@
 // Slider extension, https://github.com/annaesvensson/yellow-slider
 
 class YellowSlider {
-    const VERSION = "1.0.1";
+    const VERSION = "1.0.2";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -63,9 +63,9 @@ class YellowSlider {
         $output = null;
         if ($name=="header") {
             $assetLocation = $this->yellow->system->get("coreServerBase").$this->yellow->system->get("coreAssetLocation");
-            $output = "<link rel=\"stylesheet\" type=\"text/css\" media=\"all\" href=\"{$assetLocation}slider.css\" />\n";
-            $output .= "<script type=\"text/javascript\" defer=\"defer\" src=\"{$assetLocation}slider-splide.min.js\"></script>\n";
-            $output .= "<script type=\"text/javascript\" defer=\"defer\" src=\"{$assetLocation}slider.js\"></script>\n";
+            $output = "<link rel=\"stylesheet\" href=\"{$assetLocation}slider.css\" />\n";
+            $output .= "<script defer=\"defer\" src=\"{$assetLocation}slider-splide.min.js\"></script>\n";
+            $output .= "<script defer=\"defer\" src=\"{$assetLocation}slider.js\"></script>\n";
         }
         return $output;
     }

@@ -1,4 +1,4 @@
-# Slider 1.0.1
+# Slider 1.0.2
 
 Bildergalerie mit Schieber. Entwickelt von Anna Svensson.
 
